@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## Languages and tools:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,next,nest,express,mongo,postgres,docker,redux,graphql,jest,git,postman,rabbitmq)](https://skillicons.dev)
 <!--
 **Linsted/Linsted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
