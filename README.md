@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+I`m Ivan, a Full-stack developer.
+
 ## Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,next,nest,express,postgres,mongo,docker,redux,graphql,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,next,nest,express,postgres,mongo,aws,docker,redux,graphql,jest)](https://skillicons.dev)
 <!--
 **Linsted/Linsted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
