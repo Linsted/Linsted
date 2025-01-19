@@ -5,8 +5,8 @@ I`m Ivan, a Full-stack developer.
 ## Languages and tools:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nest,nodejs,postgres,html,css,react,next,express,mongo,aws,docker,graphql,jest)](https://skillicons.dev)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Linsted&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Linsted&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <!--
